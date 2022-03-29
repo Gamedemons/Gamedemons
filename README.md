@@ -1,6 +1,6 @@
 ![](https://github.com/Gamedemons/Gamedemons/blob/main/Resources/waxline.png)
 
-<p align=center>![](https://github.com/Gamedemons/Gamedemons/blob/main/Resources/sphere.gif)</p>
+[](https://github.com/Gamedemons/Gamedemons/blob/main/Resources/sphere.gif)
 
 # GameDemons
 
