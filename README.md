@@ -16,6 +16,6 @@ The repositories will contain all sorts of projects from the simple printing the
 
 Counting since `2022-03-03T12:00:00Z` (ISO 8601)
 
-<p align="center"><a href="https://www.buymeacoffee.com/xblacky"><img src="main/Resources/beer.png"></a></p> 
+<p align="center"><a href="https://www.buymeacoffee.com/xblacky"><img src="https://github.com/Gamedemons/Gamedemons/blob/main/Resources/beer.png"></a></p> 
 
 Hope you have a good day !
