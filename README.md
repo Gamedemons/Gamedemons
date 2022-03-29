@@ -18,9 +18,7 @@ The repositories will contain all sorts of projects from the simple printing the
 - ✅ [Anime4K](https://github.com/Gamedemons/Anime4K)
 
 </details>
-
-
-
+</br>
 ## Visits
 
 <p align="center">
