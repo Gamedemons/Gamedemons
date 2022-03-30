@@ -17,7 +17,6 @@ The repositories will contain all sorts of projects from the simple printing the
 - [AnimeXStream](https://github.com/Gamedemons/AnimeXStream).
 - [NHentai Client](https://github.com/Gamedemons/NClientV2).
 - [RealESRGAN](https://github.com/Gamedemons/Real-ESRGAN)
-- [Anime4K](https://github.com/Gamedemons/Anime4K)
 
 </details>
 </br>
