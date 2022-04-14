@@ -14,10 +14,12 @@ The repositories will contain all sorts of projects from the simple printing the
 <details open>
 <summary>📕<b>Repositories</b></summary>
 
-- [AnimeXStream](https://github.com/Gamedemons/AnimeXStream).
-- [NHentai Client](https://github.com/Gamedemons/NClientV2).
+- [AnimeXStream](https://github.com/Gamedemons/AnimeXStream)
+- [NHentai Client](https://github.com/Gamedemons/NClientV2)
 - [RealESRGAN](https://github.com/Gamedemons/Real-ESRGAN)
-
+- [DSMusicPlayer](https://github.com/Gamedemons/DSMusicPlayer)
+- [AeroTrials](https://github.com/Gamedemons/Insta_flters_with_python)
+  
 </details>
 </br>
 
