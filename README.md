@@ -16,8 +16,12 @@ The repositories will contain all sorts of projects from the simple printing the
 
 - [NHentai Client](https://github.com/Gamedemons/NClientV2)
 - [RealESRGAN](https://github.com/Gamedemons/Real-ESRGAN)
-- [DSMusicPlayer](https://github.com/Gamedemons/DSMusicPlayer)
+- [DSMusicPlayer CLI](https://github.com/Gamedemons/DSMusicPlayer)
 - [AeroTrials](https://github.com/Gamedemons/Insta_flters_with_python)
+- [Anime4K}(https://github.com/Gamedemons/Anime4K)
+- [DSMusicPlayer](https://github.com/Gamedemons/MusicPlayer)
+  - []()
+  - []()
   
 </details>
 </br>
