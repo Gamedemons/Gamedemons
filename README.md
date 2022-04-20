@@ -18,10 +18,8 @@ The repositories will contain all sorts of projects from the simple printing the
 - [RealESRGAN](https://github.com/Gamedemons/Real-ESRGAN)
 - [DSMusicPlayer CLI](https://github.com/Gamedemons/DSMusicPlayer)
 - [AeroTrials](https://github.com/Gamedemons/Insta_flters_with_python)
-- [Anime4K}(https://github.com/Gamedemons/Anime4K)
+- [Anime4K](https://github.com/Gamedemons/Anime4K)
 - [DSMusicPlayer](https://github.com/Gamedemons/MusicPlayer)
-  - []()
-  - []()
   
 </details>
 </br>
