@@ -20,6 +20,7 @@ The repositories will contain all sorts of projects from the simple printing the
 - [AeroTrials](https://github.com/Gamedemons/Insta_flters_with_python)
 - [Anime4K](https://github.com/Gamedemons/Anime4K)
 - [DSMusicPlayer](https://github.com/Gamedemons/MusicPlayer)
+- [Lance](https://github.com/Gamedemons/Lance)
   
 </details>
 </br>
