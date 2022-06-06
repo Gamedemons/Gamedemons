@@ -12,16 +12,21 @@ The repositories will contain all sorts of projects from the simple printing the
 
 <!---------------------------------- Updates --------------------------->
 <details open>
-<summary>📕<b>Repositories</b></summary>
+<summary>📕<b>My Repositories</b></summary>
 
-- [NHentai Client](https://github.com/Gamedemons/NClientV2)
-- [RealESRGAN](https://github.com/Gamedemons/Real-ESRGAN)
 - [DSMusicPlayer CLI](https://github.com/Gamedemons/DSMusicPlayer)
 - [AeroTrials](https://github.com/Gamedemons/Insta_flters_with_python)
-- [Anime4K](https://github.com/Gamedemons/Anime4K)
-- [DSMusicPlayer](https://github.com/Gamedemons/MusicPlayer)
+- [MusicPlayer](https://github.com/Gamedemons/MusicPlayer)
 - [Lance](https://github.com/Gamedemons/Lance)
   
+</br>
+<summary>📕<b>Forked Repositories</b></summary>
+
+- [RealESRGAN](https://github.com/Gamedemons/Real-ESRGAN)
+- [Anime4K](https://github.com/Gamedemons/Anime4K)
+- [Light Novel Crawler](https://github.com/Gamedemons/lightnovel-crawler)
+- [Tachiyomi](https://github.com/Gamedemons/tachiyomi)
+
 </details>
 </br>
 
