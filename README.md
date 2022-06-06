@@ -12,7 +12,7 @@ The repositories will contain all sorts of projects from the simple printing the
 
 <!---------------------------------- Updates --------------------------->
 <details open>
-<summary>📕<b>My Repositories</b></summary>
+<summary>💚<b>My Repositories</b></summary>
 
 - [DSMusicPlayer CLI](https://github.com/Gamedemons/DSMusicPlayer)
 - [AeroTrials](https://github.com/Gamedemons/Insta_flters_with_python)
@@ -21,7 +21,7 @@ The repositories will contain all sorts of projects from the simple printing the
   
 </br>
 <details open>
-<summary>📕<b>Forked Repositories</b></summary>
+<summary>🔱<b>Forked Repositories</b></summary>
 
 - [RealESRGAN](https://github.com/Gamedemons/Real-ESRGAN)
 - [Anime4K](https://github.com/Gamedemons/Anime4K)
