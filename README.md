@@ -45,7 +45,7 @@ Counting since `2022-03-03 T12:00:00Z`
 ---
 
 
-<a href="http://www.github.com/Gamedemons"><img src="https://github-readme-stats.vercel.app/api?username=Gamedemons&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Gamedemons's GitHub stats" /></a>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gamedemons)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
