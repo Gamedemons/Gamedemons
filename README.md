@@ -44,6 +44,11 @@ Counting since `2022-03-03 T12:00:00Z`
 
 ---
 
+
+<a href="http://www.github.com/Gamedemons"><img src="https://github-readme-stats.vercel.app/api?username=Gamedemons&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Gamedemons's GitHub stats" /></a>
+
+
+
 <p align="center"><a href="https://www.buymeacoffee.com/manthanrajoria"><img src="https://github.com/Gamedemons/Gamedemons/blob/main/Resources/beer.png"></a></p> 
 Hope you have a good day !
 
