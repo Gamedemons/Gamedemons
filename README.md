@@ -51,6 +51,9 @@ Counting since `2022-03-03 T12:00:00Z`
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gamedemons&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gamedemons)](https://github.com/anuraghazra/github-readme-stats)
+
+
 <p align="center"><a href="https://www.buymeacoffee.com/manthanrajoria"><img src="https://github.com/Gamedemons/Gamedemons/blob/main/Resources/beer.png"></a></p> 
 Hope you have a good day !
 
