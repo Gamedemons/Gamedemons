@@ -2,7 +2,7 @@
 
 # GameDemons
 
-Hajimemashite ! Everyone </br>
+Sup ! Everyone </br>
 I'm Manthan Raj Rajoria, currently a student aspiring to be a software developer. I started learning programming in my school days which then carried onto the college as my interest. I'm not that hardcore but rather easygoing. Every project that you will find will be only for my learning. I hope you find my projects fulfilling.
 
 ***This repository is only for educational purposes.***
