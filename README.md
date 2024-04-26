@@ -26,10 +26,7 @@ The repositories will contain all sorts of projects from the simple printing the
 <details open>
 <summary>🔱<b>Forked Repositories</b></summary>
 
-- [RealESRGAN](https://github.com/Gamedemons/Real-ESRGAN)
-- [Anime4K](https://github.com/Gamedemons/Anime4K)
-- [Light Novel Crawler](https://github.com/Gamedemons/lightnovel-crawler)
-- [Tachiyomi](https://github.com/Gamedemons/tachiyomi)
+- RuneGeneratorOS
 
 </details>
 </br>
