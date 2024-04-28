@@ -457,7 +457,7 @@ Properties             7 mins          ▒░░░░░░░░░░░░�
 ```
 
 <!--END_SECTION:waka-->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Robot-Bold&size=30&color=00F7E4&center=false&vCenter=true&width=900&height=110&lines=Passionate+Developer;Programmer;Content+Creator/Writer;Tech-savvy+person+from+India)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Jersey-Bold&size=40&color=00F7E4&center=false&vCenter=true&width=900&height=110&lines=Gamedemons)](https://git.io/typing-svg)
 
 ![Trophies](https://github-profile-trophy.vercel.app/?username=MrunankB&theme=gruvbox)
 
