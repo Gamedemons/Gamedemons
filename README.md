@@ -29,6 +29,7 @@ The repositories will contain all sorts of projects from the simple printing the
 - [Exportify](https://github.com/Gamedemons/exportify)
 - [Rectron](https://github.com/Gamedemons/rectron)
 
+</details>
 </br>
 <details>
 <summary>📦<b>Old Repositories</b></summary>
@@ -39,6 +40,7 @@ The repositories will contain all sorts of projects from the simple printing the
 - [Animon](https://github.com/Gamedemons/Animon)
 - [Ani-mon](https://github.com/Gamedemons/Ani-mon)
 
+</details>
 </br>
 <details>
 <summary>🔮<b>Extras</b></summary>
