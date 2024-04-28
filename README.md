@@ -1,16 +1,18 @@
 ![](https://github.com/Gamedemons/Gamedemons/blob/main/Resources/waxline.png)
 
-# GameDemons
+# The Pitch
 
 Sup ! Everyone </br>
-I'm Manthan Raj Rajoria, currently a student aspiring to be a software developer. I started learning programming in my school days which then carried onto the college as my interest. I'm not that hardcore but rather easygoing. Every project that you will find will be only for my learning. I hope you find my projects fulfilling.
+I'm Manthan Raj Rajoria (Gamedemons), a software/web developer. I started learning programming in my school days by making mini-games like crossword or tic tac toe. Later I started developing a few tools to help me with a few small tasks. I'm trying out many things to find what works for me(the most fun). Every project that you will find will be only for my learning. I hope you find my projects fulfilling. 
+
+<br>
+<b>Core Skills</b>
 
 ***This repository is only for educational purposes.***
 
 ## Foreword
-The repositories will contain all sorts of projects from the simple printing the message to some larger ones like manga clients. 
+The repositories will contain all sorts of projects from the simple hello-world scripts to some larger ones like manga clients. 
 
-<!---------------------------------- Updates --------------------------->
 <details open>
 <summary>💚<b>My Repositories</b></summary>
 
