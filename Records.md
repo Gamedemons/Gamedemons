@@ -53,12 +53,117 @@ I'm Manthan Raj Rajoria (Gamedemons) and this is a Github readme profile decorat
 
 <img src="https://profile-counter.glitch.me/sahilatahar/count.svg" alt=""/>
 
+<p>
+  <img alt="React" src="https://img.shields.io/badge/-React-46a2f1?style=flat-square&logo=react&logoColor=white"/>
+  <img alt="Typescript" src="https://img.shields.io/badge/-Typescript-46a2f1?style=flat-square&logo=typescript&logoColor=white"/>
+  <img alt="Javascript" src="https://img.shields.io/badge/-Javascript-4183d9?style=flat-square&logo=javascript&logoColor=white"/>
+  <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-3c64c0?style=flat-square&logo=html5&logoColor=white"/>
+  <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-3745a8?style=flat-square&logo=css3&logoColor=white"/>
+  <img alt="Python" src="https://img.shields.io/badge/-Python-33268f?style=flat-square&logo=python&logoColor=white"/>
+  <img alt="REST API" src="https://img.shields.io/badge/-REST API-4b187a?style=flat-square&logo=rest api&logoColor=white"/>
+  <img alt="Git" src="https://img.shields.io/badge/-Git-731166?style=flat-square&logo=git&logoColor=white"/>
+  <img alt="Github" src="https://img.shields.io/badge/-Github-9b0b52?style=flat-square&logo=github&logoColor=white"/>
+  <img alt="npm" src="https://img.shields.io/badge/-npm-c3043e?style=flat-square&logo=npm&logoColor=white"/>
+  <img alt="Jest" src="https://img.shields.io/badge/-Jest-d10a32?style=flat-square&logo=jest&logoColor=white"/>
+  <img alt="Netlify" src="https://img.shields.io/badge/-Netlify-ae2935?style=flat-square&logo=netlify&logoColor=white"/>
+  <img alt="ESLint" src="https://img.shields.io/badge/-ESLint-8a4837?style=flat-square&logo=eslint&logoColor=white"/>
+  <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-67663a?style=flat-square&logo=prettier&logoColor=white"/>
+</p>
 
+<p>
+  <a href="https://github.com/pawelpikus" target="_blank">
+    <img alt="Github" src="https://img.shields.io/badge/Github-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white"/>
+  </a>
+  <a href="https://twitter.com/pavelpikus" target="_blank">
+    <img alt="Twitter" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/pawel-pikus/" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white"/>
+  </a>
+  <a href="#" target="_blank">
+    <img alt="Website" src="https://img.shields.io/badge/Website-%234285F4.svg?&style=for-the-badge&logo=google-chrome&logoColor=white"/>
+  </a>
+</p>
 
+<a href="https://github.com/pawelpikus/ip-address-tracker">
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pawelpikus&amp;repo=ip-address-tracker&amp;title_color=24292e&amp;text_color=24292e&amp;icon_color=24292e&amp;bg_color=ffffff"/>
+</a>
+<a href="https://github.com/pawelpikus/my-bookshelf">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pawelpikus&amp;repo=my-bookshelf&amp;title_color=24292e&amp;text_color=24292e&amp;icon_color=24292e&amp;bg_color=ffffff"/></a>
+<a href="https://github.com/pawelpikus/firstsight-dashboard-app">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pawelpikus&amp;repo=firstsight-dashboard-app&amp;title_color=24292e&amp;text_color=24292e&amp;icon_color=24292e&amp;bg_color=ffffff"/>
+</a>
+<a href="https://github.com/pawelpikus/social-media-dashboard-with-theme-switcher">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pawelpikus&amp;repo=social-media-dashboard-with-theme-switcher&amp;title_color=24292e&amp;text_color=24292e&amp;icon_color=24292e&amp;bg_color=ffffff"/>
+</a>
 
+<p align="left">
+  <a href="https://go.dev/doc/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/go-colored.svg" width="36" height="36" alt="Go" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a
+  ><a href="https://dart.dev/" target="_blank" rel="noreferrer"
+    ><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dart-colored.svg" width="36" height="36" alt="Dart" /></a
+  ><a href="https://www.python.org/" target="_blank" rel="noreferrer"
+    ><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a
+  ><a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer"
+    ><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/rust-colored.svg" width="36" height="36" alt="Rust" /></a
+  ><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"
+    ><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="Typescript" /></a
+  ><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"
+    ><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a
+  ><a href="https://reactjs.org/" target="_blank" rel="noreferrer"
+    ><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a
+  ><a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"
+    ><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="NextJs" /></a
+  ><a href="https://vuejs.org/" target="_blank" rel="noreferrer"
+    ><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vuejs-colored.svg" width="36" height="36" alt="Vue" /></a
+  ><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"
+    ><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a
+  ><a href="https://sass-lang.com/" target="_blank" rel="noreferrer"
+    ><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" /></a
+  ><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"
+    ><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a
+  ><a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"
+    ><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a
+  ><a href="https://mui.com/" target="_blank" rel="noreferrer"
+    ><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/materialui-colored.svg" width="36" height="36" alt="Material UI" /></a
+  ><a href="https://redux.js.org/" target="_blank" rel="noreferrer"
+    ><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="36" height="36" alt="Redux" /></a
+  ><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"
+    ><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a
+  ><a href="https://expressjs.com/" target="_blank" rel="noreferrer"
+    ><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a
+  ><a href="https://graphql.org/" target="_blank" rel="noreferrer"
+    ><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/graphql-colored.svg" width="36" height="36" alt="GraphQL" /></a
+  ><a href="https://docs.nestjs.com/" target="_blank" rel="noreferrer"
+    ><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nestjs-colored.svg" width="36" height="36" alt="NestJS" /></a
+  ><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"
+    ><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a
+  ><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"
+    ><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a
+  ><a href="https://www.heroku.com/" target="_blank" rel="noreferrer"
+    ><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/heroku-colored.svg" width="36" height="36" alt="Heroku" /></a
+  ><a href="https://supabase.io/" target="_blank" rel="noreferrer"
+    ><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/supabase-colored.svg" width="36" height="36" alt="Supabase" /></a
+  ><a href="https://flutter.dev/" target="_blank" rel="noreferrer"
+    ><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" width="36" height="36" alt="Flutter"
+  /></a>
+</p>
 
-
-
+### Socials
+<p align="left">
+  <a href="https://www.dev.to/krtirtho" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" width="32" height="32" />
+  </a>
+  <a href="https://www.twitter.com/@KrTirtho" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" />
+  </a>
+  <a href="https://www.linkedin.com/in/kingkor-roy-tirtho-810b951b4" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
+  </a>
+</p>
 
 
 
