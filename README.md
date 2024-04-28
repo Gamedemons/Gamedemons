@@ -14,12 +14,13 @@ The repositories will contain all sorts of projects from the simple printing the
 <details open>
 <summary>💚<b>My Repositories</b></summary>
 
+- [Nyxane](https://github.com/Gamedemons/Nyxane-Vue)
 - [ImLance](https://github.com/Gamedemons/ImLance)
 - [Ressdify](https://github.com/Gamedemons/Ressdify)
 - [Dark Novel Crawler](https://github.com/Gamedemons/Darknovel-Crawler)
   
 </details>
-</br>
+
 <details>
 <summary>🔱<b>Forked Repositories</b></summary>
 
@@ -29,6 +30,15 @@ The repositories will contain all sorts of projects from the simple printing the
 - [ArmoriaGeneratorOS](https://github.com/Gamedemons/ArmoriaGeneratorOS)
 - [Exportify](https://github.com/Gamedemons/exportify)
 - [Rectron](https://github.com/Gamedemons/rectron)
+
+</details>
+
+<details>
+<summary>🌌<b>Websites</b></summary>
+
+- [✨ Nyxane](https://github.com/Gamedemons/Nyxane-Vue)
+- [Demo Website - SureShot](https://github.com/Gamedemons/deweb-sureshot)
+- [Demo Website - Jewelry](https://github.com/Gamedemons/deweb-jewelry)
 
 </details>
 
@@ -47,10 +57,8 @@ The repositories will contain all sorts of projects from the simple printing the
 <summary>🔮<b>Extras</b></summary>
 
 - [Resources](https://github.com/Gamedemons/Resources)
-- [Music Player](https://github.com/Gamedemons/MusicPlayer)
-- [Aero Trials](https://github.com/Gamedemons/AeroTrials)
-- [Animon](https://github.com/Gamedemons/Animon)
-- [Ani-mon](https://github.com/Gamedemons/Ani-mon)
+- [ImGui Forks](https://github.com/Gamedemons/ImGui-Forks)
+- [Tachiyomi Extensions](https://github.com/Gamedemons/ani-extensions)
 
 </details>
 </br>
