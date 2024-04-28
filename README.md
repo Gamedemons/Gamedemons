@@ -14,19 +14,40 @@ The repositories will contain all sorts of projects from the simple printing the
 <details open>
 <summary>💚<b>My Repositories</b></summary>
 
-- [Ressdify](https://github.com/Gamedemons/Ressdify)
 - [ImLance](https://github.com/Gamedemons/ImLance)
+- [Ressdify](https://github.com/Gamedemons/Ressdify)
 - [Dark Novel Crawler](https://github.com/Gamedemons/Darknovel-Crawler)
-- [Lance](https://github.com/Gamedemons/Lance)
-- [MusicPlayer](https://github.com/Gamedemons/MusicPlayer)
-- [DSMusicPlayer CLI](https://github.com/Gamedemons/DSMusicPlayer)
-- [AeroTrials](https://github.com/Gamedemons/Insta_flters_with_python)
   
 </br>
-<details open>
+<details>
 <summary>🔱<b>Forked Repositories</b></summary>
 
-- RuneGeneratorOS
+- [RuneGeneratorOS](https://github.com/Gamedemons/RuneGeneratorOS)
+- [TownGeneratorOS](https://github.com/Gamedemons/TownGeneratorOS)
+- [MapGeneratorOS](https://github.com/Gamedemons/MapGeneratorOS)
+- [ArmoriaGeneratorOS](https://github.com/Gamedemons/ArmoriaGeneratorOS)
+- [Exportify](https://github.com/Gamedemons/exportify)
+- [Rectron](https://github.com/Gamedemons/rectron)
+
+</br>
+<details>
+<summary>📦<b>Old Repositories</b></summary>
+
+- [Lance](https://github.com/Gamedemons/Lance)
+- [Music Player](https://github.com/Gamedemons/MusicPlayer)
+- [Aero Trials](https://github.com/Gamedemons/AeroTrials)
+- [Animon](https://github.com/Gamedemons/Animon)
+- [Ani-mon](https://github.com/Gamedemons/Ani-mon)
+
+</br>
+<details>
+<summary>🔮<b>Extras</b></summary>
+
+- [Resources](https://github.com/Gamedemons/Resources)
+- [Music Player](https://github.com/Gamedemons/MusicPlayer)
+- [Aero Trials](https://github.com/Gamedemons/AeroTrials)
+- [Animon](https://github.com/Gamedemons/Animon)
+- [Ani-mon](https://github.com/Gamedemons/Ani-mon)
 
 </details>
 </br>
