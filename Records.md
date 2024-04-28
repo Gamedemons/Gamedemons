@@ -397,7 +397,7 @@ I'm Manthan Raj Rajoria (Gamedemons) and this is a Github readme profile decorat
 </p>
 
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3FD7F7&center=true&width=435&lines=Grad+%40+Northeastern+University;Ex-Project+Engineer+%40+Wipro;Currently+learning+WebRTC" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3FD7F7&center=true&width=435&lines=Im+%40+Manthan+Raj;Software+Developer+%40+Nowhere;Currently+learning+Everything" alt="Typing SVG" /></a>
 </p>
 
 <p align="left">
