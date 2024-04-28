@@ -273,13 +273,169 @@ I'm Manthan Raj Rajoria (Gamedemons) and this is a Github readme profile decorat
   </picture>
 </a>
 
+## 💾 Programming languages
 
+<table>
+  <td align="center" width="96">
+    <img src="./img/proglang/python.svg" width="48" height="48" alt="Python" />
+    <br>Python
+  </td>
+    <td align="center" width="96">
+    <img src="./img/proglang/java.svg" width="48" height="48" alt="Java" />
+    <br>Java
+  </td>
+</td>
+    <td align="center" width="96">
+    <img src="./img/proglang/csharp.svg" width="48" height="48" alt="C#" />
+    <br>C#
+  </td>
+  <td align="center" width="96">
+    <img src="./img/proglang/cpp.svg" width="48" height="48" alt="C++" />
+    <br>C++
+  </td>
+  <td align="center" width="96">
+    <img src="./img/proglang/rust.svg" width="48" height="48" alt="Rust" />
+    <br>Rust
+  </td>
+  </td>
+    <td align="center" width="96">
+    <img src="./img/proglang/c.svg" width="48" height="48" alt="C" />
+    <br>C
+  </td>
+    </td>
+    <td align="center" width="96">
+    <img src="./img/proglang/kotlin.svg" width="48" height="48" alt="Kotlin" />
+    <br>Kotlin
+  </td>
+  <td align="center" width="96">
+    <img src="./img/proglang/plsql.svg" width="48" height="48" alt="PLSQL" />
+    <br>PL/SQL
+  </td>
+  <td align="center" width="96">
+    <img src="./img/proglang/bash.svg" width="48" height="48" alt="Bash" />
+    <br>Bash
+  </td>
+</table>
 
+## ⚙️ Operating systems
 
+<table>
+  <td align="center" width="96">
+    <img src="./img/os/windows.svg" width="48" height="48" alt="Windows" />
+    <br>Windows
+  </td>
+  <td align="center" width="96">
+    <img src="./img/os/linux.svg" width="48" height="48" alt="Linux" />
+    <br>Linux
+  </td>
+  <td align="center" width="96">
+    <img src="./img/os/android.svg" width="48" height="48" alt="Android" />
+    <br>Android
+  </td>
+</table>
 
+## 🔧 Tools
 
+<table>
+  <td align="center" width="96">
+    <img src="./img/tools/vscode.svg" width="48" height="48" alt="Visual Studio Code" />
+    <br>VS Code
+  </td>
+  <td align="center" width="96">
+    <img src="./img/tools/vs.svg" width="48" height="48" alt="Visual Studio" />
+    <br>VS
+  </td>
+  <td align="center" width="96">
+    <img src="./img/tools/jetbrains.svg" width="48" height="48" alt="Jetbrains Suite" />
+    <br>Jetbrains
+  </td>
+  <td align="center" width="96">
+    <img src="./img/tools/arduino.svg" width="48" height="48" alt="Arduino IDE" />
+    <br>Arduino
+  </td>
+  <td align="center" width="96">
+    <img src="./img/tools/git.svg" width="48" height="48" alt="Git" />
+    <br>Git
+  </td>
+  <td align="center" width="96">
+    <img src="./img/tools/github.svg" width="48" height="48" alt="GitHub" />
+    <br>GitHub
+  </td>
+    <td align="center" width="96">
+    <img src="./img/tools/android_studio.svg" width="48" height="48" alt="Android Studio" />
+    <br>Android Studio
+  </td>
+  <td align="center" width="96">
+    <img src="./img/tools/firebase.svg" width="48" height="48" alt="Firebase" />
+    <br>Firebase
+  </td>
+</table>
 
+## 📬 Contact me
 
+<table>
+  <td align="center" width="96">
+    <a href="https://marcpinet.me/contact/"><img src="./img/social/marcpinet.png" width="48" height="48" alt="marcpinet" />
+    <br>My website
+  </td>
+  <td align="center" width="96">
+    <a href="https://www.linkedin.com/in/marc-pinet/"><img src="./img/social/linkedin.svg" width="48" height="48" alt="Linkedin" />
+    <br>Linkedin
+  </td>
+  </a>
+  <td align="center" width="96">
+    <a href="https://www.instagram.com/marc.pnt/"><img src="./img/social/instagram.svg" width="48" height="48" alt="Instagram" />
+    <br>Instagram
+  </a>
+  </td>
+</table>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,cpp,cmake,docker,kafka,py,raspberrypi,bash,neovim,linux&theme=dark" />
+  </a>
+</p>
+
+<p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3FD7F7&center=true&width=435&lines=Grad+%40+Northeastern+University;Ex-Project+Engineer+%40+Wipro;Currently+learning+WebRTC" alt="Typing SVG" /></a>
+</p>
+
+<p align="left">
+<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a><a href="https://angular.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/angularjs-colored.svg" width="36" height="36" alt="Angular" /></a><a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a><a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a><a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a><a href="https://www.heroku.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/heroku-colored.svg" width="36" height="36" alt="Heroku" /></a><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a><a href="https://render.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/render-colored.svg" width="36" height="36" alt="Render" /></a><a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored.svg" width="36" height="36" alt="Django" /></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a><a href="https://apple.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/macos-colored.svg" width="36" height="36" alt="MacOS" /></a><a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" width="36" height="36" alt="Google Cloud" /></a>
+</p>
+
+<p>
+  <img align="left" width="430" height="190" src="https://github-readme-stats.vercel.app/api?username=Shabinder&show_icons=true&hide_border=false&line_height=20&title_color=336791&icon_color=1b93c9&show_owner=true"/>
+  <p >  
+    <img src="https://img.shields.io/badge/-Kotlin-FA6400?style=flat-square&logo=kotlin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Java-EC4D37?style=flat-square&logo=java&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Android%20Studio-42B883?style=flat-square&logo=Android&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Firebase-F6820D?style=flat-square&logo=FireBase&logoColor=white"/><br/>
+    <img src="https://img.shields.io/badge/-Github-181717?style=flat-square&logo=GitHub&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Git-F44D27?style=flat-square&logo=Git&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Slack-E01563?style=flat-square&logo=Slack&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Spring-5e8d5a?style=flat-square&logo=Spring&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/><br/>
+    <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Manjaro-34BE5B?style=flat-square&logo=Manjaro&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Debian-A80030?style=flat-square&logo=Debian&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Postgresql-336791?style=flat-square&logo=Postgresql&logoColor=white"/>
+    <!--<img src="https://img.shields.io/badge/-Google%20Cloud-4285F4?style=flat-square&logo=Google%20Cloud&logoColor=white"/>-->
+    <img src="https://img.shields.io/badge/-Heroku-6762a6?style=flat-square&logo=heroku&logoColor=white"/>
+  </p>
+</p>
+<p>
+  <!--START_SECTION:waka-->
+
+```txt
+Kotlin                 16 hrs 5 mins   ███████████████████████▒░   93.21 %
+Java Properties        23 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.29 %
+TOML                   18 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.79 %
+Bash                   8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.82 %
+Properties             7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.70 %
+```
+
+<!--END_SECTION:waka-->
 
 
 
