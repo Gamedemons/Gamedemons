@@ -18,6 +18,7 @@ The repositories will contain all sorts of projects from the simple printing the
 - [Ressdify](https://github.com/Gamedemons/Ressdify)
 - [Dark Novel Crawler](https://github.com/Gamedemons/Darknovel-Crawler)
   
+</details>
 </br>
 <details>
 <summary>🔱<b>Forked Repositories</b></summary>
@@ -30,7 +31,7 @@ The repositories will contain all sorts of projects from the simple printing the
 - [Rectron](https://github.com/Gamedemons/rectron)
 
 </details>
-</br>
+
 <details>
 <summary>📦<b>Old Repositories</b></summary>
 
@@ -41,7 +42,7 @@ The repositories will contain all sorts of projects from the simple printing the
 - [Ani-mon](https://github.com/Gamedemons/Ani-mon)
 
 </details>
-</br>
+
 <details>
 <summary>🔮<b>Extras</b></summary>
 
