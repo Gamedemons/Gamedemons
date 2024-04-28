@@ -22,6 +22,15 @@ The repositories will contain all sorts of projects from the simple printing the
 </details>
 
 <details>
+<summary>🌌<b>Websites</b></summary>
+
+- [✨ Nyxane](https://github.com/Gamedemons/Nyxane-Vue)
+- [Demo Website - SureShot](https://github.com/Gamedemons/deweb-sureshot)
+- [Demo Website - Jewelry](https://github.com/Gamedemons/deweb-jewelry)
+
+</details>
+
+<details>
 <summary>🔱<b>Forked Repositories</b></summary>
 
 - [RuneGeneratorOS](https://github.com/Gamedemons/RuneGeneratorOS)
@@ -30,15 +39,6 @@ The repositories will contain all sorts of projects from the simple printing the
 - [ArmoriaGeneratorOS](https://github.com/Gamedemons/ArmoriaGeneratorOS)
 - [Exportify](https://github.com/Gamedemons/exportify)
 - [Rectron](https://github.com/Gamedemons/rectron)
-
-</details>
-
-<details>
-<summary>🌌<b>Websites</b></summary>
-
-- [✨ Nyxane](https://github.com/Gamedemons/Nyxane-Vue)
-- [Demo Website - SureShot](https://github.com/Gamedemons/deweb-sureshot)
-- [Demo Website - Jewelry](https://github.com/Gamedemons/deweb-jewelry)
 
 </details>
 
