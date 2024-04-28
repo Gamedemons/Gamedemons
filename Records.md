@@ -459,6 +459,8 @@ Properties             7 mins          ▒░░░░░░░░░░░░�
 <!--END_SECTION:waka-->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Jersey-Bold&size=40&color=00F7E4&center=false&vCenter=true&width=900&height=110&lines=Gamedemons)](https://git.io/typing-svg)
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&pause=500&color=F70000&background=FFFFFF00&random=false&width=435&lines=Mankind+is+Dead;Blood+is+Fuel;Hell+is+Full)](https://git.io/typing-svg)
+
 ![Trophies](https://github-profile-trophy.vercel.app/?username=MrunankB&theme=gruvbox)
 
 ![GitHub followers](https://img.shields.io/github/followers/mrunankB?label=followers&style=flat)
