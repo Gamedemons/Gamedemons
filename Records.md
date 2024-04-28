@@ -12,6 +12,7 @@ I'm Manthan Raj Rajoria (Gamedemons) and this is a Github readme profile decorat
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gamedemons)](https://github.com/anuraghazra/github-readme-stats)
 <p align="left"> <img src=https://komarev.com/ghpvc/?username=Gamedemons alt=Gamedemons/> </p>
+
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:gamedemons55@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)]()
 [![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?logo=stack-overflow&logoColor=white)]()
