@@ -18,6 +18,7 @@ The repositories will contain all sorts of projects from the simple hello-world 
 
 - [Nyxane](https://github.com/Gamedemons/Nyxane-Vue)
 - [ImLance](https://github.com/Gamedemons/ImLance)
+- [Lismac](https://github.com/Gamedemons/Lismac)
 - [Ressdify](https://github.com/Gamedemons/Ressdify)
 - [Dark Novel Crawler](https://github.com/Gamedemons/Darknovel-Crawler)
   
