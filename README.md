@@ -3,7 +3,7 @@
 # The Pitch
 
 Sup ! Everyone </br>
-I'm Manthan Raj Rajoria (Gamedemons), a software/web developer. I started learning programming in my school days by making mini-games like crossword or tic tac toe. Later I started developing a few tools to help me with a few small tasks. I'm trying out many things to find what works for me(the most fun). Every project that you will find will be only for my learning. I hope you find my projects fulfilling. 
+I'm (Gamedemons), a software/web developer. I started learning programming in my school days by making mini-games like crossword or tic tac toe. Later I started developing a few tools to help me with a few small tasks. I'm trying out many things to find what works for me(the most fun). Every project that you will find will be only for my learning. I hope you find my projects fulfilling. 
 
 <br>
 <b>Core Skills</b>
