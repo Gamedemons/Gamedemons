@@ -7,6 +7,7 @@ I'm (Gamedemons), a software/web developer. I started learning programming in my
 
 <br>
 <b>Core Skills</b>
+C++, Java, Web Development (Vue and React)
 
 ***This repository is only for educational purposes.***
 
