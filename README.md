@@ -9,7 +9,7 @@ I'm (Gamedemons), a software/web developer. I started learning programming in my
 <br>
 <b>Core Skills</b>
 C++, Java, Web Development (Vue and React)
-
+<br>
 
 ## Foreword
 The repositories will contain all sorts of projects from the simple hello-world scripts to some larger ones like manga clients. 
