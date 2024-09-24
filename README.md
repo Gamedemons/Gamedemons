@@ -35,6 +35,14 @@ The repositories will contain all sorts of projects from the simple hello-world 
 </details>
 
 <details>
+<summary>📕<b>Learning</b></summary>
+
+- [AlgoGrind](https://github.com/Gamedemons/AlgoGrind)
+- [Hearth](https://github.com/Gamedemons/hearth)
+
+</details>
+
+<details>
 <summary>🔱<b>Forked Repositories</b></summary>
 
 - [RuneGeneratorOS](https://github.com/Gamedemons/RuneGeneratorOS)
