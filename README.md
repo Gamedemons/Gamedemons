@@ -17,7 +17,7 @@ The repositories will contain all sorts of projects from the simple hello-world 
 <details open>
 <summary>💚<b>My Repositories</b></summary>
 
-- [Nyxane](https://github.com/Gamedemons/Nyxane-Vue)
+- [Nyxane](https://github.com/Gamedemons/nyxane-nue)
 - [ImLance](https://github.com/Gamedemons/ImLance)
 - [Lismac](https://github.com/Gamedemons/Lismac)
 - [Ressdify](https://github.com/Gamedemons/Ressdify)
@@ -28,7 +28,7 @@ The repositories will contain all sorts of projects from the simple hello-world 
 <details>
 <summary>🌌<b>Websites</b></summary>
 
-- [✨ Nyxane](https://github.com/Gamedemons/Nyxane-Vue)
+- [✨ Nyxane](https://github.com/Gamedemons/nyxane-vue)
 - [Demo Website - SureShot](https://github.com/Gamedemons/deweb-sureshot)
 - [Demo Website - Jewelry](https://github.com/Gamedemons/deweb-jewelry)
 
